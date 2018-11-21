@@ -35,7 +35,7 @@
  */
 
 
-package org.redquark.org.redquark.ipk._01warmup;
+package org.redquark.ipk._01warmup;
 
 import java.util.Scanner;
 
